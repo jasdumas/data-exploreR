@@ -11,7 +11,7 @@ install_github("jasdumas/data-exploreR")
 ```
 Navigate to the link to use the application via shinyapps.io: **TBA Launch**
 
-### How to use?
+## How to use?
 
 1. Upload a dataset
 2. Explore
@@ -23,7 +23,7 @@ Navigate to the link to use the application via shinyapps.io: **TBA Launch**
     6. Explore a pivot table (for all the excel lovers :purple_heart:) of the data
     7. Explore the next steps in the data science process depending on the structure of the data
 
-### Contact
+## Contact
 
 Jasmine Dumas [@jasdumas](https://twitter.com/jasdumas) | [jasdumas.github.io](http://jasdumas.github.io/)
 
