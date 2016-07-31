@@ -1,7 +1,7 @@
 # data-exploreR
 'Easy' web-enabled Exploratory Data Analysis with Shiny
 
-### How to install?
+## How to install?
 
 Install the development version via Github and run local:
 
