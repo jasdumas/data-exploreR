@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "library(plotly)\n\n\n# histogram\nplot_ly(x = iris$Species, type = \"histogram\")\n\np <- plot_ly(x=data2$x, type=\"histogram\",  opacity = 0.6, showlegend = FALSE)\nx <- list(title = \"x Axis\")\np2 <- layout(p,  xaxis = x)\n\n# boxplot\nplot_ly(y = rnorm(50), type = \"box\") %>%\n  add_trace(y = rnorm(50, 1), type = \"box\")\n\n\nplot_ly(y=data2, type=\"box\")\n\nplot_ly(ggplot2::diamonds, y = price, color = cut, type = \"box\")\nplot_ly(data2, y = data2, type = \"box\")\n\nggplot(data2, aes(x=x, y=y)) + geom_boxplot()\n# pairs matrix",
+    "created" : 1464711059625.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "597482288",
+    "id" : "62578A87",
+    "lastKnownWriteTime" : 4586304288,
+    "last_content_update" : 1464714715395,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "chunk_rendered_width" : "650",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
