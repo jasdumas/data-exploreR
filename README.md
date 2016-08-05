@@ -27,3 +27,8 @@ Navigate to the link to use the application via shinyapps.io: **TBA Launch**
 
 Jasmine Dumas [@jasdumas](https://twitter.com/jasdumas) | [jasdumas.github.io](http://jasdumas.github.io/)
 
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/jasdumas/data-exploreR/badge.svg?style=beer-square)](https://beerpay.io/jasdumas/data-exploreR)  [![Beerpay](https://beerpay.io/jasdumas/data-exploreR/make-wish.svg?style=flat-square)](https://beerpay.io/jasdumas/data-exploreR?focus=wish)
